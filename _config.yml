@@ -16,7 +16,7 @@
 title: DED
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  DED : the dume emotional device. 
+  DED : the dumb emotional device. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: drbrian
