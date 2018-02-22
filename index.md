@@ -1,5 +1,5 @@
 ---
-title: SCTV - a code repository for Brian Degger 
+title: DED- Dumb Emotional Device 
 ---
 
 [about](about.md)
