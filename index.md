@@ -2,5 +2,5 @@
 title: DED- Dumb Emotional Device 
 ---
 
-[about](about.html)
-[readme](readme.html)
+[about](about.md)
+[readme](readme.md)
