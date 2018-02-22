@@ -2,8 +2,8 @@
 title: About
 ---
 
-[about](about)
-[readme](readme)
+[home](index.md)
+
 
 
 # ded
